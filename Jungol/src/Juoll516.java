@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Jungol516 {
+public class Juoll516 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
